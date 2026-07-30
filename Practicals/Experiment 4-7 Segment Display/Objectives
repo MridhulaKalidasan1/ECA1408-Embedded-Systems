@@ -1,0 +1,4 @@
+Objectives:
+ 1. To interface a 7 segment diplay using AT89C51.
+ 2. To display decimal digits using segment data.
+ 3. To understand output display interfacing.
