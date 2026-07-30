@@ -1,0 +1,4 @@
+Objectives:
+ 1. To study the basic operation of AT89C51 microcontroller.
+ 2. To interface a LED with the microcontroller.
+ 3. To generate a LED blinking using a software delay routine.
