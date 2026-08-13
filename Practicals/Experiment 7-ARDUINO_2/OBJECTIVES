@@ -1,1 +1,4 @@
-
+Objectives:
+  1.To set up and simulate UART serial communication between an Arduino Uno and a Virtual Terminal in Proteus.
+  2.To configure hardware serial data transmission using the standard Arduino Serial library functions.
+  3.To continuously transmit and display formatted numerical status output ("Number is 0") on the serial terminal monitor.
