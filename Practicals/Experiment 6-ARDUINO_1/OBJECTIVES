@@ -1,1 +1,4 @@
-
+Objectives:
+  1.To design and simulate a 16x2 alphanumeric LCD (LM016L) interface with an Arduino Uno using Proteus software.
+  2.To program the microcontroller using the LiquidCrystal library for 4-bit parallel data communication.
+  3.To initialize the LCD screen and render static custom text ("Hello world") reliably on the display.
