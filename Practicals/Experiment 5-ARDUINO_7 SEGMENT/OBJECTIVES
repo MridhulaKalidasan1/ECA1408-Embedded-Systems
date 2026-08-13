@@ -1,1 +1,4 @@
-
+Objectives: 
+  1. To develop a manual Electronic counter using Arduino
+  2. To interface a push button and seven segment display
+  3. To increment count values using user input
