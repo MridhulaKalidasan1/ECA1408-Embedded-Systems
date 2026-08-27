@@ -1,1 +1,4 @@
-
+Objectives:
+  1. To Read the analog output signal from the MQ-6 gas sensor using the Arduino Uno's analog pin A0.
+  2. To Compare the measured gas concentration value against a predefined safety threshold of 400.
+  3. To Trigger an alert by turning ON the LED on pin 13 and displaying a gas leak message on the Virtual Terminal if the concentration exceeds the threshold.
