@@ -1,1 +1,4 @@
-
+Objectives:
+  1. To Emit a 10-microsecond high pulse via the trigger pin to initiate an ultrasonic sound wave signal from the sensor.
+  2. To Measure the travel time (duration) of the reflected echo signal returning to pin 10 using the pulseIn() function.
+  3. To Calculate the target distance using the formula distance = (duration * 0.034)/2 and print the result in centimeters to the Virtual Terminal.
