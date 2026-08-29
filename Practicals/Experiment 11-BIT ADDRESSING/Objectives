@@ -1,1 +1,5 @@
+Objectives:
 
+  1. Perform bit-addressable GPIO pin mapping for individual LEDs connected to Port 1 (P1^0 and P1^1) on an 8051 microcontroller using Embedded C in Keil $\mu$Vision.
+  2. Implement an alternating blinking sequence with software delay loops to demonstrate precise bit-level output control.
+  3. Verify logic state changes during execution using the Keil peripheral debugger to monitor parallel port logic values.
