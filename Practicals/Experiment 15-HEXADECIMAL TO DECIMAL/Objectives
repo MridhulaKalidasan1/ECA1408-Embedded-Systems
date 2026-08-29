@@ -1,1 +1,5 @@
+Objectives:
 
+* Convert an 8-bit hexadecimal number (`0xAF`) into its individual decimal digits (hundreds, tens, and units) using division and modulo arithmetic in Embedded C on an 8051 microcontroller.
+* Map each calculated decimal place digit to output ports `P0` (units), `P1` (tens), and `P2` (hundreds).
+* Validate the numeric conversion algorithm by observing output port register values (`P0 = 0x05`, `P1 = 0x07`, `P2 = 0x01`) in the Keil $\mu$Vision debug peripheral windows.
