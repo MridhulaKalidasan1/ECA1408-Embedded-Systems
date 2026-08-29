@@ -1,1 +1,5 @@
+Objectives:
 
+* Configure the 8051 UART serial peripheral (`SCON = 0x50`) and Timer 1 in Mode 2 (`TMOD = 0x20`) to establish a standard 9600 baud rate connection.
+* Implement Embedded C code using `printf()` from `<stdio.h>` to continuously transmit the text string `"Hello World ! \n"` over the serial interface.
+* Verify serial transmission and buffer output using the Keil $\mu$Vision UART #1 debug terminal window.
