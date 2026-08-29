@@ -1,1 +1,5 @@
+Objectives:
 
+  1. Perform 16-bit binary multiplication on an 8051 microcontroller using explicit type casting to unsigned long int in Embedded C.
+  2. Extract and split the 32-bit resulting product into individual bytes using bitwise shift and masking operations (>> and &).
+  3. Verify the computed result by mapping each byte to parallel I/O ports (P0, P1, P2, and P3) using the Keil $\mu$Vision debug peripheral windows.
