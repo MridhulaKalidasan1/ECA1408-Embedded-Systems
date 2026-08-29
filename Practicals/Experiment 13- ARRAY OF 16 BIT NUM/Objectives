@@ -1,1 +1,5 @@
+Objectives:
 
+* Declare and iterate through an array of 16-bit unsigned integers to compute their cumulative sum using Embedded C on an 8051 microcontroller.
+* Split the resulting total sum into lower, middle, and upper 8-bit bytes using bitwise right-shift (`>>`) and masking (`&`) operations.
+* Verify the computed sum across parallel ports `P0`, `P1`, and `P2` using the Keil $\mu$Vision debugger peripheral windows.
