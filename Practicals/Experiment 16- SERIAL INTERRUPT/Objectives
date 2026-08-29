@@ -1,1 +1,5 @@
+Objectives:
 
+* Configure 8051 UART serial peripheral registers (`SCON = 0x50`, `TMOD = 0x20`, `TH1 = 0xFD`) to initialize Mode 1 8-bit UART communication at a 9600 baud rate.
+* Enable global and serial communication interrupts using the Interrupt Enable register (`IE = 0x90`) to process incoming and outgoing serial data asynchronously.
+* Transmit formatted strings and verify interrupt execution using the Keil $\mu$Vision UART #1 terminal output window displaying received interrupt messages.
