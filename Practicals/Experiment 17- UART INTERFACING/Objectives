@@ -1,1 +1,5 @@
+Objectives:
 
+* Implement an Interrupt Service Routine (ISR vector `interrupt 4`) for the 8051 UART peripheral to process incoming serial data dynamically.
+* Transfer received byte values from the Serial Buffer (`SBUF`) to output Port 1 (`P1 = SBUF`) upon detection of the Receive Interrupt flag (`RI`).
+* Verify serial reception logic and port updates using Keil $\mu$Vision debug windows for Interrupt System status, Serial Channel control, and Parallel Port 1.
