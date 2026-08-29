@@ -1,1 +1,5 @@
+Objectives:
 
+* Configure 8051 Timer 0 in 16-bit mode (`TMOD = 0x01`) with periodic preload values (`TH0 = 0xFC`, `TL0 = 0x66`) and enable timer interrupts (`IE = 0x82`).
+* Generate a Pulse Width Modulation (PWM) signal by toggling an output pin state based on a counter maintained within the Timer 0 Interrupt Service Routine.
+* Verify the generated PWM waveform parameters and duty cycle timing using the Keil microVision Logic Analyzer window.
