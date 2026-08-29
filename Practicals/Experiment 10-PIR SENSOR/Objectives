@@ -1,1 +1,5 @@
+Objectives:
 
+  1. Interface a PIR motion sensor to digital pin 2 and an alert LED to digital pin 13 on an Arduino Uno.
+  2. Develop an embedded C program in Arduino IDE to read sensor output and trigger visual and serial status alerts upon motion detection.
+  3. Simulate the circuit schematic in Proteus VSM to validate real-time system responses on the virtual terminal and alert LED.
